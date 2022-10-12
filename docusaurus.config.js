@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Maxim codes',
   tagline: 'Maxim codes everyday',
-  url: 'https://maxshlain.github.io/site',
-  baseUrl: '/',
+  url: 'https://maxshlain.github.io',
+  baseUrl: '/site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

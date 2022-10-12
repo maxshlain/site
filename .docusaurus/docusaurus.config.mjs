@@ -4,15 +4,16 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "title": "Maxim codes",
+  "tagline": "Maxim codes everyday",
+  "url": "https://maxshlain.github.io",
+  "baseUrl": "/site/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "trailingSlash": false,
+  "organizationName": "maxshlain",
+  "projectName": "site",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
